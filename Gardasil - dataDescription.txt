@@ -1,0 +1,33 @@
+Data from a retrospective study of completion of the 3-shot anti-HPV vaccine, Gardasil
+
+The data were gathered from written and electronic records at four clinics of 
+Johns Hopkins Medical Institutions (JHMI) that was offering the Gardasil vaccine 
+in 2006-2008. Young female patients who came to start the HPV series were identified. 
+Two of the clinics (Odenton, White Marsh) are located in suburban Baltimore, while 
+the other two (Bayview and Johns Hopkins Hospital Outpatient Center) are located
+in Baltimore City.
+
+Age = the patient's age in years 
+Race = the patient's race (0 = white, 1 = black, 2 = Hispanic, 3 = other/unknown)
+Shots = the number of shots that the patients completed during a period of 12 months from
+the time of the first shot
+Completed = did the patient complete the three-shot regimen within the recommended period
+of 12 months (0 = no, 1 = yes)
+InsuranceType = the type of insurance that the patient had (0 = medical assistance, 1 = 
+private payer [Blue Cross Blue Shield, Aetna, Cigna, United, Commercial, CareFirst], 2 = 
+hospital based [EHF], 3 = military [USFHP, Tricare, MA])
+MedAssist = did the patient have some type of medical assistance (0 = no, 1 = yes)
+Location = the clinic that the patient attended (1 = Odenton, 2 = White Marsh, 3 = 
+Johns Hopkins Outpatient Center, 4 = Bayview)
+PracticeType = the type of practice that the patient visited (0 = pediatric, 1 = family
+practice, 2 = OB-GYN)
+
+How many people complete full course 3 vaccine
+which location people complete the full course
+which race people take high vaccine
+how many people take shots during 12 months
+
+732
+443
+52
+186
